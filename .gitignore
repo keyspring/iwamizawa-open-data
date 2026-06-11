@@ -1,0 +1,12 @@
+# 内部データ・原本の誤混入を防ぐ防御線（このリポジトリは公開用のみ）
+# 原本PDF（私人氏名を含む）は再ホストしない
+*.pdf
+# 内部フルデータ（万一コピーされても公開しない）
+*_marahada.*
+*_internal*
+*_private_full*
+**/.uploads/
+*.tmp
+.DS_Store
+Thumbs.db
+node_modules/
