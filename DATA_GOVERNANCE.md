@@ -9,8 +9,9 @@
 - `data/jimin_first_branch_donors_public.csv` … 法人寄附44社（企業名・額・日付・業種。**代表者個人名・住所は除外**）
 - `data/election_finance_2023_public.md` … 候補別 選挙収支（**私人献金者は「個人献金N件=計X円」に匿名集約**）
 - `figures/F1〜F7` … 図版（全枚 出典フッター・規律注記入り）
-- `articles/` … 親記事冒頭・第1話台本
-- `README / LICENSE(CC BY) / DISCLAIMER / SOURCES / DATA_DICTIONARY / uncertainty_register / legal_expression_review`
+- `README / LICENSE(CC BY) / DISCLAIMER / SOURCES / DATA_DICTIONARY / DATA_GOVERNANCE / PUBLISHING_GUIDE / PUBLISH_CHECKLIST / uncertainty_register`
+
+公開データリポジトリには、記事ドラフト・動画台本・制作メモを同梱しない。制作物は別の非公開制作トラックで管理し、公開データ側は根拠・データ・図版・免責に限定する。
 
 ## 2. 内部用データ（公開しない・検証/保守用）
 氏名等を含む完全版。リポジトリ外（`outputs/`・`work/`）に保持し、**公開リポジトリには入れない**。
